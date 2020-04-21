@@ -11,3 +11,9 @@ Asal		: Jombang
 Domisili	: Jakarta
 Akun Github	: https://github.com/arifdja/
 Facebook    : https://www.facebook.com/enterkidsowner
+
+3.
+Nama		: Arizal
+Asal		: Tangerang
+Domisili	: Tangerang
+Akun Github	: https://github.com/arizalinside
