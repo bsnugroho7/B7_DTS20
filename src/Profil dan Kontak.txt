@@ -4,3 +4,10 @@ Nama		: Bagus Satrio Nugroho
 Asal		: Klaten
 Domisili	: Klaten
 Akun Github	: https://github.com/bsnugroho7/
+
+2.
+Nama		: Arif Rachman
+Asal		: Jombang
+Domisili	: Jakarta
+Akun Github	: https://github.com/arifdja/
+Facebook    : https://www.facebook.com/enterkidsowner
