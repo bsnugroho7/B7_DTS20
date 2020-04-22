@@ -154,6 +154,7 @@ header {
 
 .lesson-icon {
     position: relative;
+    opacity:0.8;
 }
 
 .lesson-icon p {
@@ -269,6 +270,19 @@ footer {
     background-color: #163973;
     padding: 13px 26px;
     transition: all 0.2s;
+}
+.lesson-icon:hover{
+    opacity:1;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.text-contents:hover{
+    font-size: 17px;
+    cursor: pointer;
+}
+.judul-contents:hover{
+    font-size:20px;
+    cursor: pointer;
 }
 /* .lesson-icon img:hover{
     height: 220px;  
