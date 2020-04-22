@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    font-family: "Lucida Grande";
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 a {
@@ -163,17 +163,21 @@ header {
     color: black;
 }
 
+
 .text-contents {
     width: 80%;
     display: inline-block;
-    margin-top: 15px;
+    /* border: 1px solid  ; */
+    /* padding:10px; */
+    /* background-color: white; */
+    /* margin-top: 15px; */
     font-size: 15px;
-    color: #b3aeb5;
+    color: #404040;
 }
 
-.heading h3 {
-    font-weight: normal;
-}
+/* .heading h3 {
+
+} */
 
 .message-wrapper {
     border-bottom: 1px solid #eee;
@@ -240,3 +244,35 @@ footer {
     top: 7px;
     box-shadow: none;
 }
+
+/* TAMBAH TIO */
+.judul-contents{
+    color: black;
+}
+.profile-text{
+    font-size:50px;
+    padding:10px 100px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.profile-text:hover{
+    opacity: 0.5;
+    transition: all 0.5s;
+}
+.github {
+    background-color: #555a61;
+    margin-right: 10px;
+}
+.github:hover{
+    background-color: #163973;
+    padding: 13px 26px;
+    transition: all 0.2s;
+}
+/* .lesson-icon img:hover{
+    height: 220px;  
+    width: 220px;
+    opacity: 0.9;
+    transition: all 0.2s;
+} */
