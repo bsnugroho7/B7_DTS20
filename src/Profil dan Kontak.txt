@@ -1,22 +1,22 @@
 =====Data Profil dan kontak B7 Progate DTS======
 1.
-Nama	      : Bagus Satrio Nugroho
-Asal	      : Klaten
-Domisili	  : Klaten
-Akun Github	: https://github.com/bsnugroho7/
+Nama        : Bagus Satrio Nugroho
+Asal        : Klaten
+Domisili    : Klaten
+Akun Github : https://github.com/bsnugroho7/
 
 2.
-Nama	      : Arif Rachman
-Asal	      : Jombang
-Domisili	  : Jakarta
-Akun Github	: https://github.com/arifdja/
+Nama        : Arif Rachman
+Asal        : Jombang
+Domisili    : Jakarta
+Akun Github : https://github.com/arifdja/
 Facebook    : https://www.facebook.com/enterkidsowner
 
 3.
 Nama	      : Arizal
 Asal	      : Tangerang
-Domisili	  : Tangerang
-Akun Github	: https://github.com/arizalinside
+Domisili    : Tangerang
+Akun Github : https://github.com/arizalinside
 
 4.
 Nama        : Beny Achmad Abdillah DP
