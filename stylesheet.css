@@ -149,7 +149,7 @@ header {
 
 .lesson {
     float: left;
-    width: 25%;
+    width: 20%;
 }
 
 .lesson-icon {
@@ -158,9 +158,9 @@ header {
 
 .lesson-icon p {
     position: absolute;
-    top: 44%;
+    top: 0%;
     width: 100%;
-    color: white;
+    color: black;
 }
 
 .text-contents {
