@@ -211,3 +211,32 @@ footer {
 .menu-icon {
     display: none;
 }
+
+
+/* Tambah Aryo */
+
+.message-facebook {
+    padding: 15px 40px;
+    background-color: #3b5998;
+    cursor: pointer;
+    box-shadow: 0 7px #092050;
+}
+
+.message-facebook:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+}
+
+.message-twitter {
+    padding: 15px 40px;
+    background-color: #55acee;
+    cursor: pointer;
+    box-shadow: 0 7px #195a8b;
+}
+
+.message-twitter:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+}
