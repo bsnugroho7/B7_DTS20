@@ -325,26 +325,33 @@ nav a#pull {
     display: none;
 }
 
+footer {
+    background-color: #444343;
+}
+
 .footer-1 {
-    display: flex;
     padding: 48px 0;
 }
 
+.footer-logo {
+    width: 25%;
+    float: left;
+}
+
 .footer-logo img {
-    width: 175px;
+    width: 75%;
     padding-left: 15px;
     text-align: center;
 }
 
 .footer-logo p {
-    border-top: 1px solid gray;
-    font-size: 12px;
+    font-size: 15px;
     padding-top: 8px;
     color: gray;
 }
 
-.footer-list {
-    padding-left: 85px;
+.footer-list h2 {
+    color: white;
 }
 
 .footer-list li {
@@ -358,19 +365,10 @@ nav a#pull {
 }
 
 .footer-list a:hover {
-    color: black;
+    color:black;
 }
 
-.copyright {
-    border-top: 1px solid #eee;
-    background-color: #9c9991;
-}
-
-.footer-cpr {
-    padding: 20px 0;
+.cpyright {
+    padding-top: 200px;
     text-align: center;
-}
-
-small {
-    color: white;
 }

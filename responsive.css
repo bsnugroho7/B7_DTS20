@@ -11,6 +11,12 @@
     .heading h2 {
         font-size: 20px;
     }
+    .footer-logo img {
+        padding-left: 20px;
+    }
+    .footer-logo {
+        padding-left: 20px;
+    }
 }
 
 
@@ -19,9 +25,6 @@
 @media all and (max-width: 670px) {
     .lesson {
         width: 100%;
-    }
-    footer {
-        text-align: center;
     }
     .btn {
         width: 100%;
@@ -106,5 +109,17 @@
         position: absolute;
         right: 0px;
         top: 20px;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer-logo {
+        width: 100%;
+    }
+    .footer-list {
+        width: 100%;
+    }
+    .cpyright {
+        padding-top: 550px;
     }
 }
