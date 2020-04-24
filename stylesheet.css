@@ -7,6 +7,10 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+li {
+    list-style-type: none;
+}
+
 a {
     text-decoration: none;
 }
@@ -199,20 +203,6 @@ header {
     box-shadow: none;
 }
 
-footer img {
-    width: 125px;
-}
-
-footer p {
-    color: #b3aeb5;
-    font-size: 12px;
-}
-
-footer {
-    padding-top: 30px;
-    padding-bottom: 20px;
-}
-
 .menu-icon {
     display: none;
 }
@@ -333,4 +323,54 @@ nav a:hover, nav a:active {
 
 nav a#pull {
     display: none;
+}
+
+.footer-1 {
+    display: flex;
+    padding: 48px 0;
+}
+
+.footer-logo img {
+    width: 175px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+.footer-logo p {
+    border-top: 1px solid gray;
+    font-size: 12px;
+    padding-top: 8px;
+    color: gray;
+}
+
+.footer-list {
+    padding-left: 85px;
+}
+
+.footer-list li {
+    float: left;
+    padding: 0 40px;
+    position: relative;
+}
+
+.footer-list a {
+    color: #a8a6a2;
+}
+
+.footer-list a:hover {
+    color: black;
+}
+
+.copyright {
+    border-top: 1px solid #eee;
+    background-color: #9c9991;
+}
+
+.footer-cpr {
+    padding: 20px 0;
+    text-align: center;
+}
+
+small {
+    color: white;
 }
