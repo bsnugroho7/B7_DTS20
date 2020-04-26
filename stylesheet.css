@@ -27,22 +27,23 @@ a {
 }
 
 .top-wrapper {
-    padding: 180px 0 100px 0;
+    padding: 180px 0 180px 0;
     background-image: url(https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=5049&q=80);
     background-size: cover;
     color: white;
-    text-align: center;
+    text-align: right;
+    opacity: 0.7;
 }
 
 .top-wrapper h1 {
-    opacity: 0.7;
+    opacity: 1;
     font-size: 45px;
     letter-spacing: 5px;
     margin-bottom: 10px;
 }
 
 .top-wrapper p {
-    opacity: 0.7;
+    opacity: 1;
     margin-bottom: 3px;
 }
 
@@ -58,7 +59,7 @@ a {
 .signup {
     background-color: #239b76;
 }
-
+/*
 .facebook {
     background-color: #3b5998;
     margin-right: 10px;
@@ -67,7 +68,7 @@ a {
 .twitter {
     background-color: #55acee;
 }
-
+*/
 .btn {
     padding: 12px 24px;
     color: white;
